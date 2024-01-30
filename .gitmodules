@@ -1,0 +1,6 @@
+[submodule "PHP-CLI-Framwork"]
+	path = PHP-CLI-Framwork
+	url = git@github.com:trendgetraenkdesjahres/PHP-CLI-Framwork.git
+[submodule "PHP-CLI-Framework"]
+	path = PHP-CLI-Framework
+	url = git@github.com:trendgetraenkdesjahres/PHP-CLI-Framework.git
